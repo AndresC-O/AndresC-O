@@ -1,4 +1,4 @@
-# Hi, this is Andrés Córdova from El Salvador 👋
+# Hi, this is Andrés Córdova Full Stack Developer, Student 👋
 
 <!--
 **AndresC-O/AndresC-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
